@@ -1,66 +1,38 @@
 import pandas as pd
-import random
-from datetime import datetime, timedelta
-from config import PAYMENT_MODES, EMPLOYEES, DISCOUNTS
 
-# Load datasets
-products = pd.read_csv("DATA/generated/products.csv")
-customers = pd.read_csv("DATA/generated/customers.csv")
+suppliers = [
+    {
+        "Supplier_ID": "SUP001",
+        "Supplier_Name": "Octave India Pvt Ltd",
+        "Brand": "Octave",
+        "City": "Delhi",
+        "Contact": "9876543210"
+    },
+    {
+        "Supplier_ID": "SUP002",
+        "Supplier_Name": "Flujeans Pvt Ltd",
+        "Brand": "Flujeans",
+        "City": "Noida",
+        "Contact": "9876543211"
+    },
+    {
+        "Supplier_ID": "SUP003",
+        "Supplier_Name": "Yankees Apparel",
+        "Brand": "Yankees",
+        "City": "Ludhiana",
+        "Contact": "9876543212"
+    },
+    {
+        "Supplier_ID": "SUP004",
+        "Supplier_Name": "Scotlane Fashion",
+        "Brand": "Scotlane",
+        "City": "Jaipur",
+        "Contact": "9876543213"
+    }
+]
 
-sales = []
+df = pd.DataFrame(suppliers)
 
-start_date = datetime(2025,1,1)
+df.to_csv("DATA/RAW/suppliers.csv", index=False)
 
-for i in range(1,12001):
-
-    product = products.sample(1).iloc[0]
-    customer = customers.sample(1).iloc[0]
-
-    quantity = random.randint(1,3)
-
-    discount = random.choice(DISCOUNTS)
-
-    payment = random.choices(
-        PAYMENT_MODES,
-        weights=[60,20,10,10]
-    )[0]
-
-    date = start_date + timedelta(days=random.randint(0,364))
-
-    revenue = quantity * product["Selling_Price"]
-
-    revenue_after_discount = revenue*(1-discount/100)
-
-    cost = quantity*product["Cost_Price"]
-
-    profit = revenue_after_discount-cost
-
-    sales.append({
-
-        "Invoice_ID":f"INV{i:05}",
-
-        "Date":date.strftime("%Y-%m-%d"),
-
-        "Customer_ID":customer["Customer_ID"],
-
-        "Product_ID":product["Product_ID"],
-
-        "Employee_ID":random.choice(EMPLOYEES),
-
-        "Quantity":quantity,
-
-        "Payment_Mode":payment,
-
-        "Discount_%":discount,
-
-        "Revenue":round(revenue_after_discount,2),
-
-        "Profit":round(profit,2)
-
-    })
-
-df=pd.DataFrame(sales)
-
-df.to_csv("data/generated/sales.csv",index=False)
-
-print("✅ 12000 Sales Generated Successfully!")
+print("✅ Suppliers Generated Successfully!")

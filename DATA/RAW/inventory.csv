@@ -1,0 +1,251 @@
+Product_ID,Brand,Category,Gender,Color,Size,Current_Stock,Reorder_Level,Warehouse
+P001,US Polo,Boys T-Shirt,Kids,Maroon,XL,40,10,Krishna Collection - Agra
+P002,Killer,Boys T-Shirt,Kids,White,S,78,10,Krishna Collection - Agra
+P003,Pepe Jeans,Trouser,Men,Green,XL,7,10,Krishna Collection - Agra
+P004,Scotlane,Trouser,Men,Green,3XL,43,10,Krishna Collection - Agra
+P005,Spykar,Boys Jeans,Kids,Red,L,28,10,Krishna Collection - Agra
+P006,US Polo,Boys Jeans,Kids,White,L,61,10,Krishna Collection - Agra
+P007,Levi's,Boys Jeans,Kids,White,XL,57,10,Krishna Collection - Agra
+P008,Yankees,Girls Top,Kids,Black,S,41,10,Krishna Collection - Agra
+P009,Mufti,Girls Top,Kids,Olive,XL,53,10,Krishna Collection - Agra
+P010,Allen Solly,Shirt,Men,Black,S,16,10,Krishna Collection - Agra
+P011,Mufti,Jacket,Men,Blue,XL,63,10,Krishna Collection - Agra
+P012,US Polo,Hoodie,Men,Blue,S,41,10,Krishna Collection - Agra
+P013,US Polo,Winter Wear,Kids,Olive,M,49,10,Krishna Collection - Agra
+P014,Yankees,Kurta,Men,White,3XL,15,10,Krishna Collection - Agra
+P015,Duke,Boys Shirt,Kids,Green,XL,57,10,Krishna Collection - Agra
+P016,Levi's,Shirt,Men,Green,M,29,10,Krishna Collection - Agra
+P017,US Polo,Trouser,Men,Green,XXL,31,10,Krishna Collection - Agra
+P018,Van Heusen,Boys Shirt,Kids,White,XL,60,10,Krishna Collection - Agra
+P019,Mufti,Boys Jeans,Kids,Blue,S,58,10,Krishna Collection - Agra
+P020,Yankees,Boys T-Shirt,Kids,White,S,62,10,Krishna Collection - Agra
+P021,Allen Solly,Jacket,Men,Navy,S,26,10,Krishna Collection - Agra
+P022,Killer,Boys Shirt,Kids,Black,L,37,10,Krishna Collection - Agra
+P023,Levi's,Girls Top,Kids,Green,L,67,10,Krishna Collection - Agra
+P024,US Polo,Shorts,Men,Grey,S,77,10,Krishna Collection - Agra
+P025,Peter England,Jeans,Men,Green,3XL,44,10,Krishna Collection - Agra
+P026,Octave,Hoodie,Men,Blue,XL,13,10,Krishna Collection - Agra
+P027,Duke,Jeans,Men,Maroon,XXL,34,10,Krishna Collection - Agra
+P028,Flu Jeans,Shorts,Men,Maroon,L,18,10,Krishna Collection - Agra
+P029,Allen Solly,Jacket,Men,Maroon,XL,50,10,Krishna Collection - Agra
+P030,Blackberrys,Girls Top,Kids,Black,XXL,56,10,Krishna Collection - Agra
+P031,Blackberrys,Boys T-Shirt,Kids,White,3XL,45,10,Krishna Collection - Agra
+P032,Levi's,Winter Wear,Kids,Red,S,27,10,Krishna Collection - Agra
+P033,Blackberrys,Girls Top,Kids,White,M,30,10,Krishna Collection - Agra
+P034,Scotlane,Boys T-Shirt,Kids,Navy,M,79,10,Krishna Collection - Agra
+P035,Killer,Hoodie,Men,Blue,M,54,10,Krishna Collection - Agra
+P036,Peter England,Winter Wear,Kids,Blue,M,37,10,Krishna Collection - Agra
+P037,Octave,Hoodie,Men,White,M,76,10,Krishna Collection - Agra
+P038,Octave,Winter Wear,Kids,Blue,3XL,18,10,Krishna Collection - Agra
+P039,Pepe Jeans,Hoodie,Men,Red,L,17,10,Krishna Collection - Agra
+P040,Allen Solly,Boys Shirt,Kids,Navy,L,16,10,Krishna Collection - Agra
+P041,Flu Jeans,Winter Wear,Kids,Blue,M,67,10,Krishna Collection - Agra
+P042,Pepe Jeans,Winter Wear,Kids,Green,L,55,10,Krishna Collection - Agra
+P043,Mufti,Boys Jeans,Kids,Olive,S,31,10,Krishna Collection - Agra
+P044,Spykar,Jacket,Men,Red,3XL,16,10,Krishna Collection - Agra
+P045,Van Heusen,Shirt,Men,Blue,S,66,10,Krishna Collection - Agra
+P046,Spykar,Shirt,Men,Red,XL,57,10,Krishna Collection - Agra
+P047,Van Heusen,Boys Jeans,Kids,Olive,XL,29,10,Krishna Collection - Agra
+P048,Levi's,Girls Top,Kids,White,XL,60,10,Krishna Collection - Agra
+P049,Yankees,Shorts,Men,Blue,L,57,10,Krishna Collection - Agra
+P050,Octave,Boys Shirt,Kids,White,L,6,10,Krishna Collection - Agra
+P051,Mufti,Jacket,Men,Brown,XL,31,10,Krishna Collection - Agra
+P052,Levi's,Boys Jeans,Kids,White,M,31,10,Krishna Collection - Agra
+P053,US Polo,Boys T-Shirt,Kids,Green,M,49,10,Krishna Collection - Agra
+P054,Flu Jeans,Boys Jeans,Kids,Grey,L,20,10,Krishna Collection - Agra
+P055,Blackberrys,Boys T-Shirt,Kids,Red,XL,11,10,Krishna Collection - Agra
+P056,Blackberrys,Boys Shirt,Kids,White,M,27,10,Krishna Collection - Agra
+P057,Pepe Jeans,Winter Wear,Kids,Olive,XXL,6,10,Krishna Collection - Agra
+P058,Spykar,Boys T-Shirt,Kids,Grey,XXL,29,10,Krishna Collection - Agra
+P059,Flu Jeans,Kurta,Men,Red,S,37,10,Krishna Collection - Agra
+P060,Allen Solly,T-Shirt,Men,Grey,M,44,10,Krishna Collection - Agra
+P061,Peter England,Girls Top,Kids,White,S,65,10,Krishna Collection - Agra
+P062,Allen Solly,Trouser,Men,Brown,L,14,10,Krishna Collection - Agra
+P063,Yankees,Hoodie,Men,Black,XXL,61,10,Krishna Collection - Agra
+P064,Duke,Shorts,Men,Grey,L,73,10,Krishna Collection - Agra
+P065,Allen Solly,Girls Top,Kids,Blue,M,33,10,Krishna Collection - Agra
+P066,Octave,Boys Jeans,Kids,Grey,XL,17,10,Krishna Collection - Agra
+P067,Mufti,Hoodie,Men,Grey,XL,78,10,Krishna Collection - Agra
+P068,Blackberrys,Kurta,Men,White,3XL,46,10,Krishna Collection - Agra
+P069,Spykar,Shorts,Men,Navy,M,26,10,Krishna Collection - Agra
+P070,US Polo,T-Shirt,Men,Maroon,L,40,10,Krishna Collection - Agra
+P071,Pepe Jeans,Jeans,Men,Black,XL,37,10,Krishna Collection - Agra
+P072,Levi's,Jacket,Men,Blue,3XL,5,10,Krishna Collection - Agra
+P073,Allen Solly,Jeans,Men,Brown,L,34,10,Krishna Collection - Agra
+P074,Yankees,T-Shirt,Men,Black,3XL,38,10,Krishna Collection - Agra
+P075,Van Heusen,Trouser,Men,Olive,L,44,10,Krishna Collection - Agra
+P076,Duke,Shirt,Men,Brown,3XL,71,10,Krishna Collection - Agra
+P077,Duke,Hoodie,Men,Maroon,L,10,10,Krishna Collection - Agra
+P078,Peter England,Jeans,Men,Green,XXL,27,10,Krishna Collection - Agra
+P079,Killer,Boys T-Shirt,Kids,Maroon,XXL,21,10,Krishna Collection - Agra
+P080,Flu Jeans,Trouser,Men,Blue,XXL,46,10,Krishna Collection - Agra
+P081,Van Heusen,Boys Shirt,Kids,Olive,S,34,10,Krishna Collection - Agra
+P082,Octave,Boys T-Shirt,Kids,White,M,80,10,Krishna Collection - Agra
+P083,Scotlane,Girls Dress,Kids,White,L,22,10,Krishna Collection - Agra
+P084,Levi's,Kurta,Men,Maroon,L,43,10,Krishna Collection - Agra
+P085,Flu Jeans,Hoodie,Men,Olive,XXL,80,10,Krishna Collection - Agra
+P086,Levi's,Boys T-Shirt,Kids,Maroon,M,24,10,Krishna Collection - Agra
+P087,US Polo,Kurta,Men,Grey,S,64,10,Krishna Collection - Agra
+P088,Flu Jeans,T-Shirt,Men,Brown,XL,48,10,Krishna Collection - Agra
+P089,Yankees,Winter Wear,Kids,Black,3XL,75,10,Krishna Collection - Agra
+P090,Van Heusen,Winter Wear,Kids,Blue,L,64,10,Krishna Collection - Agra
+P091,Pepe Jeans,Winter Wear,Kids,White,M,47,10,Krishna Collection - Agra
+P092,Octave,Girls Top,Kids,Brown,M,47,10,Krishna Collection - Agra
+P093,Scotlane,Boys T-Shirt,Kids,White,3XL,24,10,Krishna Collection - Agra
+P094,Yankees,Boys T-Shirt,Kids,Blue,M,65,10,Krishna Collection - Agra
+P095,Octave,Hoodie,Men,White,XL,66,10,Krishna Collection - Agra
+P096,Yankees,Girls Top,Kids,Green,S,44,10,Krishna Collection - Agra
+P097,Levi's,Trouser,Men,Brown,XXL,5,10,Krishna Collection - Agra
+P098,Pepe Jeans,Jacket,Men,Maroon,3XL,40,10,Krishna Collection - Agra
+P099,Killer,Winter Wear,Kids,Red,XXL,35,10,Krishna Collection - Agra
+P100,Duke,Trouser,Men,Red,S,35,10,Krishna Collection - Agra
+P101,Levi's,Jacket,Men,Grey,M,31,10,Krishna Collection - Agra
+P102,Mufti,Boys Jeans,Kids,Green,XL,38,10,Krishna Collection - Agra
+P103,Mufti,Winter Wear,Kids,Maroon,M,70,10,Krishna Collection - Agra
+P104,Scotlane,Jacket,Men,Olive,M,46,10,Krishna Collection - Agra
+P105,Spykar,Boys T-Shirt,Kids,White,3XL,41,10,Krishna Collection - Agra
+P106,Spykar,Girls Top,Kids,Maroon,XL,9,10,Krishna Collection - Agra
+P107,US Polo,Shorts,Men,Blue,XL,20,10,Krishna Collection - Agra
+P108,Peter England,Kurta,Men,Green,3XL,8,10,Krishna Collection - Agra
+P109,Spykar,Girls Top,Kids,Navy,S,14,10,Krishna Collection - Agra
+P110,US Polo,Hoodie,Men,Red,L,79,10,Krishna Collection - Agra
+P111,Pepe Jeans,Trouser,Men,Maroon,L,8,10,Krishna Collection - Agra
+P112,Killer,Kurta,Men,Navy,S,6,10,Krishna Collection - Agra
+P113,Scotlane,Hoodie,Men,Maroon,S,64,10,Krishna Collection - Agra
+P114,Blackberrys,Boys Shirt,Kids,Red,XXL,25,10,Krishna Collection - Agra
+P115,Van Heusen,Shirt,Men,Black,S,19,10,Krishna Collection - Agra
+P116,Duke,Jacket,Men,Navy,XL,67,10,Krishna Collection - Agra
+P117,Scotlane,Girls Top,Kids,Black,XL,66,10,Krishna Collection - Agra
+P118,US Polo,T-Shirt,Men,Brown,XL,48,10,Krishna Collection - Agra
+P119,Yankees,Girls Top,Kids,Brown,M,10,10,Krishna Collection - Agra
+P120,Spykar,Shorts,Men,Green,3XL,47,10,Krishna Collection - Agra
+P121,Octave,T-Shirt,Men,Blue,3XL,67,10,Krishna Collection - Agra
+P122,US Polo,Shorts,Men,Olive,M,8,10,Krishna Collection - Agra
+P123,Duke,Hoodie,Men,White,XXL,57,10,Krishna Collection - Agra
+P124,Scotlane,Boys Shirt,Kids,Grey,3XL,19,10,Krishna Collection - Agra
+P125,US Polo,Boys Jeans,Kids,Red,L,78,10,Krishna Collection - Agra
+P126,Levi's,Shorts,Men,Navy,3XL,22,10,Krishna Collection - Agra
+P127,Van Heusen,Jacket,Men,Green,XL,58,10,Krishna Collection - Agra
+P128,Duke,Winter Wear,Kids,Green,S,38,10,Krishna Collection - Agra
+P129,Peter England,Winter Wear,Kids,Brown,M,36,10,Krishna Collection - Agra
+P130,Spykar,Trouser,Men,White,XXL,40,10,Krishna Collection - Agra
+P131,Killer,Boys T-Shirt,Kids,Black,M,24,10,Krishna Collection - Agra
+P132,Pepe Jeans,Girls Dress,Kids,Red,XL,35,10,Krishna Collection - Agra
+P133,Peter England,Girls Top,Kids,Black,M,76,10,Krishna Collection - Agra
+P134,Duke,Winter Wear,Kids,Green,S,27,10,Krishna Collection - Agra
+P135,US Polo,Shirt,Men,Blue,XL,34,10,Krishna Collection - Agra
+P136,Allen Solly,Jeans,Men,Green,XXL,54,10,Krishna Collection - Agra
+P137,Killer,Girls Dress,Kids,Olive,3XL,22,10,Krishna Collection - Agra
+P138,US Polo,Trouser,Men,White,XXL,16,10,Krishna Collection - Agra
+P139,US Polo,Girls Dress,Kids,Brown,XXL,54,10,Krishna Collection - Agra
+P140,Allen Solly,Trouser,Men,Olive,M,27,10,Krishna Collection - Agra
+P141,Levi's,Boys T-Shirt,Kids,Green,L,8,10,Krishna Collection - Agra
+P142,Van Heusen,Boys Shirt,Kids,Olive,L,23,10,Krishna Collection - Agra
+P143,Van Heusen,Shirt,Men,Olive,L,63,10,Krishna Collection - Agra
+P144,Killer,Boys Shirt,Kids,Navy,XXL,10,10,Krishna Collection - Agra
+P145,Blackberrys,Boys Shirt,Kids,Grey,XXL,19,10,Krishna Collection - Agra
+P146,Killer,Boys T-Shirt,Kids,Navy,M,53,10,Krishna Collection - Agra
+P147,US Polo,Girls Dress,Kids,Red,S,67,10,Krishna Collection - Agra
+P148,Mufti,Girls Top,Kids,Grey,3XL,53,10,Krishna Collection - Agra
+P149,Spykar,Boys Shirt,Kids,Navy,XL,60,10,Krishna Collection - Agra
+P150,Peter England,Boys T-Shirt,Kids,Blue,XL,31,10,Krishna Collection - Agra
+P151,Yankees,Winter Wear,Kids,Grey,S,24,10,Krishna Collection - Agra
+P152,Duke,Girls Dress,Kids,White,S,40,10,Krishna Collection - Agra
+P153,Duke,Kurta,Men,White,L,34,10,Krishna Collection - Agra
+P154,Killer,Boys T-Shirt,Kids,Blue,M,66,10,Krishna Collection - Agra
+P155,Van Heusen,Girls Dress,Kids,Olive,3XL,16,10,Krishna Collection - Agra
+P156,Duke,Girls Top,Kids,Brown,M,63,10,Krishna Collection - Agra
+P157,Peter England,Shorts,Men,Blue,S,53,10,Krishna Collection - Agra
+P158,Scotlane,Boys Shirt,Kids,Blue,L,78,10,Krishna Collection - Agra
+P159,Blackberrys,T-Shirt,Men,Brown,M,57,10,Krishna Collection - Agra
+P160,Scotlane,Boys Jeans,Kids,Red,XXL,29,10,Krishna Collection - Agra
+P161,Peter England,Girls Dress,Kids,Black,3XL,66,10,Krishna Collection - Agra
+P162,Scotlane,Boys Shirt,Kids,White,M,47,10,Krishna Collection - Agra
+P163,Spykar,Jacket,Men,Maroon,L,48,10,Krishna Collection - Agra
+P164,Peter England,Trouser,Men,Maroon,M,21,10,Krishna Collection - Agra
+P165,Yankees,Kurta,Men,Green,L,66,10,Krishna Collection - Agra
+P166,Spykar,Hoodie,Men,Olive,3XL,64,10,Krishna Collection - Agra
+P167,Spykar,Boys Jeans,Kids,Navy,3XL,9,10,Krishna Collection - Agra
+P168,Flu Jeans,Boys T-Shirt,Kids,Blue,XL,59,10,Krishna Collection - Agra
+P169,US Polo,Girls Dress,Kids,Red,S,18,10,Krishna Collection - Agra
+P170,Flu Jeans,Hoodie,Men,Brown,3XL,38,10,Krishna Collection - Agra
+P171,Mufti,Boys T-Shirt,Kids,Grey,XL,8,10,Krishna Collection - Agra
+P172,Levi's,Winter Wear,Kids,Maroon,M,74,10,Krishna Collection - Agra
+P173,Octave,Boys Shirt,Kids,Green,XXL,39,10,Krishna Collection - Agra
+P174,Flu Jeans,Boys T-Shirt,Kids,Maroon,XXL,19,10,Krishna Collection - Agra
+P175,Allen Solly,Girls Top,Kids,Grey,M,80,10,Krishna Collection - Agra
+P176,Duke,Girls Top,Kids,Brown,XL,52,10,Krishna Collection - Agra
+P177,Peter England,Hoodie,Men,Maroon,M,62,10,Krishna Collection - Agra
+P178,Allen Solly,Shirt,Men,Green,3XL,22,10,Krishna Collection - Agra
+P179,Yankees,Boys T-Shirt,Kids,White,M,59,10,Krishna Collection - Agra
+P180,Peter England,Girls Dress,Kids,Green,3XL,20,10,Krishna Collection - Agra
+P181,Van Heusen,Boys Shirt,Kids,Blue,S,13,10,Krishna Collection - Agra
+P182,Yankees,Hoodie,Men,Blue,M,54,10,Krishna Collection - Agra
+P183,Allen Solly,Girls Top,Kids,Black,XXL,47,10,Krishna Collection - Agra
+P184,Levi's,Boys Shirt,Kids,Grey,M,63,10,Krishna Collection - Agra
+P185,Levi's,Girls Top,Kids,Blue,3XL,58,10,Krishna Collection - Agra
+P186,Blackberrys,Trouser,Men,Grey,L,27,10,Krishna Collection - Agra
+P187,Allen Solly,Girls Top,Kids,Brown,S,71,10,Krishna Collection - Agra
+P188,Killer,Girls Dress,Kids,White,M,13,10,Krishna Collection - Agra
+P189,Pepe Jeans,Boys T-Shirt,Kids,Green,S,21,10,Krishna Collection - Agra
+P190,Allen Solly,Boys T-Shirt,Kids,Brown,S,67,10,Krishna Collection - Agra
+P191,Scotlane,Kurta,Men,Red,M,5,10,Krishna Collection - Agra
+P192,Duke,Shirt,Men,Brown,M,63,10,Krishna Collection - Agra
+P193,Blackberrys,Boys Shirt,Kids,Brown,3XL,66,10,Krishna Collection - Agra
+P194,Duke,Trouser,Men,Black,S,9,10,Krishna Collection - Agra
+P195,Mufti,Boys Jeans,Kids,Grey,M,14,10,Krishna Collection - Agra
+P196,US Polo,Kurta,Men,Brown,M,33,10,Krishna Collection - Agra
+P197,Flu Jeans,Winter Wear,Kids,Olive,M,54,10,Krishna Collection - Agra
+P198,Peter England,Jeans,Men,White,L,58,10,Krishna Collection - Agra
+P199,Flu Jeans,Girls Top,Kids,Maroon,XXL,32,10,Krishna Collection - Agra
+P200,US Polo,Shirt,Men,White,S,75,10,Krishna Collection - Agra
+P201,Pepe Jeans,Jeans,Men,Olive,3XL,30,10,Krishna Collection - Agra
+P202,Duke,Shirt,Men,Brown,3XL,37,10,Krishna Collection - Agra
+P203,Peter England,Boys Jeans,Kids,Grey,L,25,10,Krishna Collection - Agra
+P204,Octave,Girls Top,Kids,Olive,3XL,36,10,Krishna Collection - Agra
+P205,Blackberrys,Shorts,Men,White,L,76,10,Krishna Collection - Agra
+P206,US Polo,Kurta,Men,White,S,55,10,Krishna Collection - Agra
+P207,Duke,Jacket,Men,Grey,XXL,71,10,Krishna Collection - Agra
+P208,Van Heusen,Girls Dress,Kids,Red,XXL,37,10,Krishna Collection - Agra
+P209,Octave,Shirt,Men,Red,S,60,10,Krishna Collection - Agra
+P210,Mufti,Shorts,Men,Red,XXL,13,10,Krishna Collection - Agra
+P211,Killer,Girls Top,Kids,Navy,XXL,62,10,Krishna Collection - Agra
+P212,Peter England,T-Shirt,Men,Green,XXL,12,10,Krishna Collection - Agra
+P213,US Polo,Trouser,Men,Grey,L,29,10,Krishna Collection - Agra
+P214,Peter England,Kurta,Men,Green,XXL,65,10,Krishna Collection - Agra
+P215,Peter England,Boys Jeans,Kids,Maroon,XL,80,10,Krishna Collection - Agra
+P216,Pepe Jeans,Shorts,Men,Green,M,37,10,Krishna Collection - Agra
+P217,Scotlane,Boys Shirt,Kids,Olive,XXL,24,10,Krishna Collection - Agra
+P218,Van Heusen,Girls Top,Kids,Black,M,27,10,Krishna Collection - Agra
+P219,Allen Solly,Hoodie,Men,Green,3XL,19,10,Krishna Collection - Agra
+P220,Octave,Boys Shirt,Kids,Brown,M,65,10,Krishna Collection - Agra
+P221,Spykar,Boys T-Shirt,Kids,Maroon,XXL,80,10,Krishna Collection - Agra
+P222,Duke,Girls Top,Kids,Grey,L,25,10,Krishna Collection - Agra
+P223,US Polo,Shirt,Men,Red,XL,35,10,Krishna Collection - Agra
+P224,US Polo,Jeans,Men,Green,3XL,59,10,Krishna Collection - Agra
+P225,Van Heusen,Kurta,Men,White,M,59,10,Krishna Collection - Agra
+P226,Spykar,Boys Jeans,Kids,Navy,XL,19,10,Krishna Collection - Agra
+P227,Blackberrys,Kurta,Men,Olive,S,8,10,Krishna Collection - Agra
+P228,Killer,Boys Jeans,Kids,Maroon,3XL,30,10,Krishna Collection - Agra
+P229,Allen Solly,Trouser,Men,Black,S,47,10,Krishna Collection - Agra
+P230,Mufti,Boys Jeans,Kids,Black,XL,39,10,Krishna Collection - Agra
+P231,Duke,Girls Dress,Kids,Olive,M,8,10,Krishna Collection - Agra
+P232,Scotlane,Boys Shirt,Kids,Black,L,71,10,Krishna Collection - Agra
+P233,Killer,Girls Top,Kids,Black,L,60,10,Krishna Collection - Agra
+P234,Allen Solly,Girls Top,Kids,Maroon,XL,6,10,Krishna Collection - Agra
+P235,Allen Solly,Jacket,Men,White,XL,35,10,Krishna Collection - Agra
+P236,Allen Solly,Winter Wear,Kids,Maroon,3XL,59,10,Krishna Collection - Agra
+P237,Yankees,Boys T-Shirt,Kids,Blue,XL,58,10,Krishna Collection - Agra
+P238,Flu Jeans,Hoodie,Men,Grey,M,52,10,Krishna Collection - Agra
+P239,Mufti,Boys Jeans,Kids,Brown,XXL,10,10,Krishna Collection - Agra
+P240,Blackberrys,Jeans,Men,Green,M,42,10,Krishna Collection - Agra
+P241,Killer,T-Shirt,Men,Olive,XXL,50,10,Krishna Collection - Agra
+P242,Killer,Hoodie,Men,Olive,L,42,10,Krishna Collection - Agra
+P243,Mufti,Girls Top,Kids,Maroon,3XL,63,10,Krishna Collection - Agra
+P244,Duke,Jeans,Men,White,XL,50,10,Krishna Collection - Agra
+P245,Flu Jeans,Girls Top,Kids,Blue,M,72,10,Krishna Collection - Agra
+P246,US Polo,Shorts,Men,Grey,3XL,55,10,Krishna Collection - Agra
+P247,Mufti,Shorts,Men,White,3XL,45,10,Krishna Collection - Agra
+P248,Pepe Jeans,Hoodie,Men,Brown,S,30,10,Krishna Collection - Agra
+P249,Pepe Jeans,Girls Dress,Kids,Black,S,34,10,Krishna Collection - Agra
+P250,Allen Solly,Winter Wear,Kids,Green,S,67,10,Krishna Collection - Agra
