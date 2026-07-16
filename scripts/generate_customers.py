@@ -29,6 +29,6 @@ for i in range(1, 801):
 
 df = pd.DataFrame(customers)
 
-df.to_csv("data/generated/customers.csv", index=False)
+df.to_csv("DATA/RAW/customers.csv", index=False)
 
 print("✅ 800 Customers Generated Successfully!")

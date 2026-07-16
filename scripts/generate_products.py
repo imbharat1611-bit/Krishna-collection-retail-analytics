@@ -44,6 +44,6 @@ for i in range(250):
 
 df = pd.DataFrame(products)
 
-df.to_csv("data/generated/products.csv", index=False)
+df.to_csv("DATA/RAW/products.csv", index=False)
 
 print("✅ 250 Products Generated Successfully!")

@@ -1,4 +1,251 @@
-Product_ID,Brand,Category,Size,Color,Cost_Price,Selling_Price
-P001,Octave,Shirt,M,Blue,550,999
-P002,Flu Jeans,Jeans,32,Black,950,1799
-P003,Scotlane,T-Shirt,L,White,350,699
+Product_ID,Brand,Gender,Category,Color,Size,Cost_Price,Selling_Price,Profit_Margin,Stock
+P001,US Polo,Kids,Boys T-Shirt,Maroon,XL,1264,1741,37.74,33
+P002,Killer,Kids,Boys T-Shirt,White,S,1722,2508,45.66,69
+P003,Pepe Jeans,Men,Trouser,Green,XL,565,970,71.73,42
+P004,Scotlane,Men,Trouser,Green,3XL,1152,1867,62.05,73
+P005,Spykar,Kids,Boys Jeans,Red,L,1593,2477,55.49,11
+P006,US Polo,Kids,Boys Jeans,White,L,987,1464,48.36,50
+P007,Levi's,Kids,Boys Jeans,White,XL,483,814,68.52,38
+P008,Yankees,Kids,Girls Top,Black,S,252,410,62.77,80
+P009,Mufti,Kids,Girls Top,Olive,XL,1464,2549,74.11,55
+P010,Allen Solly,Men,Shirt,Black,S,1191,1849,55.29,7
+P011,Mufti,Men,Jacket,Blue,XL,936,1530,63.46,16
+P012,US Polo,Men,Hoodie,Blue,S,627,1087,73.33,29
+P013,US Polo,Kids,Winter Wear,Olive,M,944,1350,42.96,42
+P014,Yankees,Men,Kurta,White,3XL,556,875,57.45,6
+P015,Duke,Kids,Boys Shirt,Green,XL,1565,2476,58.19,11
+P016,Levi's,Men,Shirt,Green,M,1683,2399,42.56,5
+P017,US Polo,Men,Trouser,Green,XXL,1493,2066,38.39,36
+P018,Van Heusen,Kids,Boys Shirt,White,XL,1335,2141,60.41,43
+P019,Mufti,Kids,Boys Jeans,Blue,S,808,1367,69.16,30
+P020,Yankees,Kids,Boys T-Shirt,White,S,1122,1951,73.89,40
+P021,Allen Solly,Men,Jacket,Navy,S,1434,2357,64.37,33
+P022,Killer,Kids,Boys Shirt,Black,L,1443,2113,46.45,5
+P023,Levi's,Kids,Girls Top,Green,L,1529,2167,41.72,71
+P024,US Polo,Men,Shorts,Grey,S,663,973,46.81,77
+P025,Peter England,Men,Jeans,Green,3XL,551,894,62.18,50
+P026,Octave,Men,Hoodie,Blue,XL,515,863,67.63,17
+P027,Duke,Men,Jeans,Maroon,XXL,1074,1720,60.15,72
+P028,Flu Jeans,Men,Shorts,Maroon,L,920,1587,72.48,68
+P029,Allen Solly,Men,Jacket,Maroon,XL,274,472,72.12,44
+P030,Blackberrys,Kids,Girls Top,Black,XXL,1684,2823,67.63,25
+P031,Blackberrys,Kids,Boys T-Shirt,White,3XL,365,497,36.24,56
+P032,Levi's,Kids,Winter Wear,Red,S,250,376,50.47,14
+P033,Blackberrys,Kids,Girls Top,White,M,1419,2264,59.54,35
+P034,Scotlane,Kids,Boys T-Shirt,Navy,M,1401,2234,59.45,72
+P035,Killer,Men,Hoodie,Blue,M,1347,2038,51.33,62
+P036,Peter England,Kids,Winter Wear,Blue,M,593,832,40.37,72
+P037,Octave,Men,Hoodie,White,M,1327,2016,51.94,60
+P038,Octave,Kids,Winter Wear,Blue,3XL,317,434,37.02,51
+P039,Pepe Jeans,Men,Hoodie,Red,L,1535,2283,48.74,52
+P040,Allen Solly,Kids,Boys Shirt,Navy,L,360,561,55.82,32
+P041,Flu Jeans,Kids,Winter Wear,Blue,M,1312,1904,45.13,10
+P042,Pepe Jeans,Kids,Winter Wear,Green,L,872,1271,45.81,48
+P043,Mufti,Kids,Boys Jeans,Olive,S,1511,2265,49.91,45
+P044,Spykar,Men,Jacket,Red,3XL,1056,1638,55.16,13
+P045,Van Heusen,Men,Shirt,Blue,S,949,1291,36.03,56
+P046,Spykar,Men,Shirt,Red,XL,456,653,43.24,66
+P047,Van Heusen,Kids,Boys Jeans,Olive,XL,1045,1583,51.48,45
+P048,Levi's,Kids,Girls Top,White,XL,1633,2472,51.36,49
+P049,Yankees,Men,Shorts,Blue,L,1415,1928,36.25,30
+P050,Octave,Kids,Boys Shirt,White,L,1123,1607,43.14,11
+P051,Mufti,Men,Jacket,Brown,XL,1043,1553,48.89,64
+P052,Levi's,Kids,Boys Jeans,White,M,1651,2805,69.91,61
+P053,US Polo,Kids,Boys T-Shirt,Green,M,547,812,48.41,14
+P054,Flu Jeans,Kids,Boys Jeans,Grey,L,968,1444,49.16,8
+P055,Blackberrys,Kids,Boys T-Shirt,Red,XL,948,1335,40.78,32
+P056,Blackberrys,Kids,Boys Shirt,White,M,1439,2398,66.67,48
+P057,Pepe Jeans,Kids,Winter Wear,Olive,XXL,1189,1948,63.82,66
+P058,Spykar,Kids,Boys T-Shirt,Grey,XXL,1726,3008,74.3,58
+P059,Flu Jeans,Men,Kurta,Red,S,734,1042,41.91,5
+P060,Allen Solly,Men,T-Shirt,Grey,M,316,456,44.32,71
+P061,Peter England,Kids,Girls Top,White,S,1580,2137,35.26,58
+P062,Allen Solly,Men,Trouser,Brown,L,1516,2127,40.32,21
+P063,Yankees,Men,Hoodie,Black,XXL,1496,2218,48.29,14
+P064,Duke,Men,Shorts,Grey,L,622,903,45.24,16
+P065,Allen Solly,Kids,Girls Top,Blue,M,1136,1787,57.31,35
+P066,Octave,Kids,Boys Jeans,Grey,XL,1279,2191,71.28,16
+P067,Mufti,Men,Hoodie,Grey,XL,1491,2593,73.9,38
+P068,Blackberrys,Men,Kurta,White,3XL,267,453,69.61,75
+P069,Spykar,Men,Shorts,Navy,M,1407,2048,45.58,6
+P070,US Polo,Men,T-Shirt,Maroon,L,1313,2242,70.72,32
+P071,Pepe Jeans,Men,Jeans,Black,XL,467,735,57.32,74
+P072,Levi's,Men,Jacket,Blue,3XL,1024,1701,66.15,52
+P073,Allen Solly,Men,Jeans,Brown,L,576,955,65.82,51
+P074,Yankees,Men,T-Shirt,Black,3XL,568,885,55.86,79
+P075,Van Heusen,Men,Trouser,Olive,L,1754,2941,67.67,30
+P076,Duke,Men,Shirt,Brown,3XL,1391,2189,57.35,77
+P077,Duke,Men,Hoodie,Maroon,L,1492,2483,66.44,77
+P078,Peter England,Men,Jeans,Green,XXL,996,1414,41.99,63
+P079,Killer,Kids,Boys T-Shirt,Maroon,XXL,1403,2029,44.64,51
+P080,Flu Jeans,Men,Trouser,Blue,XXL,693,1168,68.54,67
+P081,Van Heusen,Kids,Boys Shirt,Olive,S,544,887,62.98,54
+P082,Octave,Kids,Boys T-Shirt,White,M,1523,2074,36.17,51
+P083,Scotlane,Kids,Girls Dress,White,L,1318,2184,65.67,34
+P084,Levi's,Men,Kurta,Maroon,L,1306,1825,39.72,44
+P085,Flu Jeans,Men,Hoodie,Olive,XXL,705,1047,48.55,9
+P086,Levi's,Kids,Boys T-Shirt,Maroon,M,1692,2351,38.94,71
+P087,US Polo,Men,Kurta,Grey,S,1304,1796,37.72,49
+P088,Flu Jeans,Men,T-Shirt,Brown,XL,897,1432,59.63,40
+P089,Yankees,Kids,Winter Wear,Black,3XL,1755,2457,39.98,72
+P090,Van Heusen,Kids,Winter Wear,Blue,L,476,760,59.57,64
+P091,Pepe Jeans,Kids,Winter Wear,White,M,858,1225,42.75,73
+P092,Octave,Kids,Girls Top,Brown,M,1744,2913,67.01,7
+P093,Scotlane,Kids,Boys T-Shirt,White,3XL,1716,2807,63.59,15
+P094,Yankees,Kids,Boys T-Shirt,Blue,M,324,490,51.18,61
+P095,Octave,Men,Hoodie,White,XL,929,1480,59.36,13
+P096,Yankees,Kids,Girls Top,Green,S,865,1428,65.06,16
+P097,Levi's,Men,Trouser,Brown,XXL,1562,2396,53.4,37
+P098,Pepe Jeans,Men,Jacket,Maroon,3XL,1091,1860,70.48,60
+P099,Killer,Kids,Winter Wear,Red,XXL,1696,2349,38.49,43
+P100,Duke,Men,Trouser,Red,S,1052,1463,39.05,79
+P101,Levi's,Men,Jacket,Grey,M,1182,1949,64.87,42
+P102,Mufti,Kids,Boys Jeans,Green,XL,408,700,71.68,29
+P103,Mufti,Kids,Winter Wear,Maroon,M,288,391,35.84,26
+P104,Scotlane,Men,Jacket,Olive,M,852,1192,39.95,39
+P105,Spykar,Kids,Boys T-Shirt,White,3XL,558,766,37.26,43
+P106,Spykar,Kids,Girls Top,Maroon,XL,1109,1917,72.89,20
+P107,US Polo,Men,Shorts,Blue,XL,635,1076,69.48,65
+P108,Peter England,Men,Kurta,Green,3XL,1783,2909,63.16,56
+P109,Spykar,Kids,Girls Top,Navy,S,959,1490,55.4,7
+P110,US Polo,Men,Hoodie,Red,L,587,977,66.5,16
+P111,Pepe Jeans,Men,Trouser,Maroon,L,726,1137,56.67,61
+P112,Killer,Men,Kurta,Navy,S,325,557,71.35,68
+P113,Scotlane,Men,Hoodie,Maroon,S,1308,1937,48.08,61
+P114,Blackberrys,Kids,Boys Shirt,Red,XXL,467,745,59.59,7
+P115,Van Heusen,Men,Shirt,Black,S,677,1068,57.77,44
+P116,Duke,Men,Jacket,Navy,XL,969,1382,42.66,40
+P117,Scotlane,Kids,Girls Top,Black,XL,758,1114,47.02,43
+P118,US Polo,Men,T-Shirt,Brown,XL,1091,1736,59.11,51
+P119,Yankees,Kids,Girls Top,Brown,M,469,728,55.28,7
+P120,Spykar,Men,Shorts,Green,3XL,1565,2665,70.3,11
+P121,Octave,Men,T-Shirt,Blue,3XL,1280,1960,53.16,30
+P122,US Polo,Men,Shorts,Olive,M,1231,1918,55.82,75
+P123,Duke,Men,Hoodie,White,XXL,1182,1617,36.82,27
+P124,Scotlane,Kids,Boys Shirt,Grey,3XL,1235,2011,62.82,28
+P125,US Polo,Kids,Boys Jeans,Red,L,653,983,50.5,60
+P126,Levi's,Men,Shorts,Navy,3XL,1186,1821,53.51,54
+P127,Van Heusen,Men,Jacket,Green,XL,1354,2108,55.7,22
+P128,Duke,Kids,Winter Wear,Green,S,1763,2916,65.41,35
+P129,Peter England,Kids,Winter Wear,Brown,M,894,1524,70.5,49
+P130,Spykar,Men,Trouser,White,XXL,862,1319,52.99,46
+P131,Killer,Kids,Boys T-Shirt,Black,M,1524,2549,67.23,23
+P132,Pepe Jeans,Kids,Girls Dress,Red,XL,1190,1746,46.71,73
+P133,Peter England,Kids,Girls Top,Black,M,715,1104,54.42,56
+P134,Duke,Kids,Winter Wear,Green,S,838,1137,35.74,57
+P135,US Polo,Men,Shirt,Blue,XL,1135,1740,53.31,65
+P136,Allen Solly,Men,Jeans,Green,XXL,1594,2512,57.62,18
+P137,Killer,Kids,Girls Dress,Olive,3XL,421,718,70.59,28
+P138,US Polo,Men,Trouser,White,XXL,444,684,54.06,55
+P139,US Polo,Kids,Girls Dress,Brown,XXL,1686,2508,48.75,61
+P140,Allen Solly,Men,Trouser,Olive,M,826,1146,38.7,24
+P141,Levi's,Kids,Boys T-Shirt,Green,L,794,1152,45.1,58
+P142,Van Heusen,Kids,Boys Shirt,Olive,L,1043,1723,65.24,21
+P143,Van Heusen,Men,Shirt,Olive,L,1086,1548,42.5,29
+P144,Killer,Kids,Boys Shirt,Navy,XXL,668,1026,53.55,57
+P145,Blackberrys,Kids,Boys Shirt,Grey,XXL,538,741,37.78,61
+P146,Killer,Kids,Boys T-Shirt,Navy,M,865,1437,66.14,44
+P147,US Polo,Kids,Girls Dress,Red,S,1322,1793,35.67,26
+P148,Mufti,Kids,Girls Top,Grey,3XL,992,1654,66.7,12
+P149,Spykar,Kids,Boys Shirt,Navy,XL,1641,2222,35.4,45
+P150,Peter England,Kids,Boys T-Shirt,Blue,XL,280,487,73.98,39
+P151,Yankees,Kids,Winter Wear,Grey,S,1615,2745,69.95,69
+P152,Duke,Kids,Girls Dress,White,S,1702,2716,59.58,43
+P153,Duke,Men,Kurta,White,L,1666,2625,57.54,78
+P154,Killer,Kids,Boys T-Shirt,Blue,M,1522,2172,42.69,28
+P155,Van Heusen,Kids,Girls Dress,Olive,3XL,1405,2169,54.36,31
+P156,Duke,Kids,Girls Top,Brown,M,1370,1874,36.8,15
+P157,Peter England,Men,Shorts,Blue,S,1429,2452,71.56,14
+P158,Scotlane,Kids,Boys Shirt,Blue,L,1185,1709,44.2,18
+P159,Blackberrys,Men,T-Shirt,Brown,M,728,1263,73.48,24
+P160,Scotlane,Kids,Boys Jeans,Red,XXL,1732,2391,38.03,10
+P161,Peter England,Kids,Girls Dress,Black,3XL,867,1460,68.42,27
+P162,Scotlane,Kids,Boys Shirt,White,M,825,1215,47.31,25
+P163,Spykar,Men,Jacket,Maroon,L,1253,2092,66.96,36
+P164,Peter England,Men,Trouser,Maroon,M,448,682,52.16,16
+P165,Yankees,Men,Kurta,Green,L,835,1359,62.72,35
+P166,Spykar,Men,Hoodie,Olive,3XL,997,1555,56.0,14
+P167,Spykar,Kids,Boys Jeans,Navy,3XL,968,1354,39.85,25
+P168,Flu Jeans,Kids,Boys T-Shirt,Blue,XL,309,462,49.43,33
+P169,US Polo,Kids,Girls Dress,Red,S,286,438,53.2,9
+P170,Flu Jeans,Men,Hoodie,Brown,3XL,379,623,64.5,16
+P171,Mufti,Kids,Boys T-Shirt,Grey,XL,1244,1719,38.19,34
+P172,Levi's,Kids,Winter Wear,Maroon,M,900,1417,57.41,64
+P173,Octave,Kids,Boys Shirt,Green,XXL,1295,1947,50.31,56
+P174,Flu Jeans,Kids,Boys T-Shirt,Maroon,XXL,980,1668,70.18,24
+P175,Allen Solly,Kids,Girls Top,Grey,M,1299,1949,50.06,56
+P176,Duke,Kids,Girls Top,Brown,XL,1523,2314,51.91,47
+P177,Peter England,Men,Hoodie,Maroon,M,331,552,66.78,14
+P178,Allen Solly,Men,Shirt,Green,3XL,952,1423,49.47,6
+P179,Yankees,Kids,Boys T-Shirt,White,M,619,908,46.67,6
+P180,Peter England,Kids,Girls Dress,Green,3XL,522,819,56.93,39
+P181,Van Heusen,Kids,Boys Shirt,Blue,S,672,1122,66.96,21
+P182,Yankees,Men,Hoodie,Blue,M,1745,2689,54.1,22
+P183,Allen Solly,Kids,Girls Top,Black,XXL,663,1057,59.4,63
+P184,Levi's,Kids,Boys Shirt,Grey,M,901,1498,66.31,50
+P185,Levi's,Kids,Girls Top,Blue,3XL,1229,2021,64.45,51
+P186,Blackberrys,Men,Trouser,Grey,L,1664,2816,69.21,47
+P187,Allen Solly,Kids,Girls Top,Brown,S,261,355,36.15,19
+P188,Killer,Kids,Girls Dress,White,M,1196,1979,65.43,42
+P189,Pepe Jeans,Kids,Boys T-Shirt,Green,S,1629,2691,65.18,9
+P190,Allen Solly,Kids,Boys T-Shirt,Brown,S,573,959,67.28,36
+P191,Scotlane,Men,Kurta,Red,M,476,679,42.61,39
+P192,Duke,Men,Shirt,Brown,M,524,754,43.88,11
+P193,Blackberrys,Kids,Boys Shirt,Brown,3XL,1030,1771,71.91,7
+P194,Duke,Men,Trouser,Black,S,1187,1922,61.91,16
+P195,Mufti,Kids,Boys Jeans,Grey,M,1568,2508,59.97,9
+P196,US Polo,Men,Kurta,Brown,M,1017,1375,35.21,5
+P197,Flu Jeans,Kids,Winter Wear,Olive,M,1221,1978,62.03,36
+P198,Peter England,Men,Jeans,White,L,988,1489,50.75,12
+P199,Flu Jeans,Kids,Girls Top,Maroon,XXL,1655,2554,54.32,66
+P200,US Polo,Men,Shirt,White,S,1051,1539,46.39,40
+P201,Pepe Jeans,Men,Jeans,Olive,3XL,580,882,52.09,42
+P202,Duke,Men,Shirt,Brown,3XL,818,1416,73.13,78
+P203,Peter England,Kids,Boys Jeans,Grey,L,1477,2174,47.21,36
+P204,Octave,Kids,Girls Top,Olive,3XL,1021,1483,45.25,50
+P205,Blackberrys,Men,Shorts,White,L,1412,2118,50.0,80
+P206,US Polo,Men,Kurta,White,S,1717,2990,74.14,72
+P207,Duke,Men,Jacket,Grey,XXL,1333,2310,73.28,58
+P208,Van Heusen,Kids,Girls Dress,Red,XXL,1610,2210,37.29,30
+P209,Octave,Men,Shirt,Red,S,1648,2518,52.79,58
+P210,Mufti,Men,Shorts,Red,XXL,728,987,35.59,16
+P211,Killer,Kids,Girls Top,Navy,XXL,1238,1975,59.52,34
+P212,Peter England,Men,T-Shirt,Green,XXL,626,1031,64.7,49
+P213,US Polo,Men,Trouser,Grey,L,663,1044,57.46,27
+P214,Peter England,Men,Kurta,Green,XXL,1194,1829,53.2,27
+P215,Peter England,Kids,Boys Jeans,Maroon,XL,744,1196,60.81,69
+P216,Pepe Jeans,Men,Shorts,Green,M,743,1227,65.13,68
+P217,Scotlane,Kids,Boys Shirt,Olive,XXL,1324,2174,64.18,74
+P218,Van Heusen,Kids,Girls Top,Black,M,987,1632,65.38,54
+P219,Allen Solly,Men,Hoodie,Green,3XL,667,1148,72.11,33
+P220,Octave,Kids,Boys Shirt,Brown,M,1019,1728,69.61,29
+P221,Spykar,Kids,Boys T-Shirt,Maroon,XXL,529,790,49.42,59
+P222,Duke,Kids,Girls Top,Grey,L,1652,2775,68.01,61
+P223,US Polo,Men,Shirt,Red,XL,474,785,65.65,71
+P224,US Polo,Men,Jeans,Green,3XL,1630,2395,46.95,6
+P225,Van Heusen,Men,Kurta,White,M,375,565,50.59,58
+P226,Spykar,Kids,Boys Jeans,Navy,XL,713,1101,54.43,69
+P227,Blackberrys,Men,Kurta,Olive,S,1778,2930,64.8,38
+P228,Killer,Kids,Boys Jeans,Maroon,3XL,1417,2118,49.49,80
+P229,Allen Solly,Men,Trouser,Black,S,581,976,67.97,64
+P230,Mufti,Kids,Boys Jeans,Black,XL,768,1104,43.72,54
+P231,Duke,Kids,Girls Dress,Olive,M,619,1028,66.05,23
+P232,Scotlane,Kids,Boys Shirt,Black,L,755,1171,55.09,9
+P233,Killer,Kids,Girls Top,Black,L,1123,1895,68.71,25
+P234,Allen Solly,Kids,Girls Top,Maroon,XL,1552,2341,50.86,65
+P235,Allen Solly,Men,Jacket,White,XL,796,1321,65.96,52
+P236,Allen Solly,Kids,Winter Wear,Maroon,3XL,310,485,56.34,48
+P237,Yankees,Kids,Boys T-Shirt,Blue,XL,1077,1778,65.12,57
+P238,Flu Jeans,Men,Hoodie,Grey,M,1064,1766,65.93,33
+P239,Mufti,Kids,Boys Jeans,Brown,XXL,1707,2720,59.33,68
+P240,Blackberrys,Men,Jeans,Green,M,646,1128,74.54,59
+P241,Killer,Men,T-Shirt,Olive,XXL,1116,1644,47.33,39
+P242,Killer,Men,Hoodie,Olive,L,744,1121,50.64,40
+P243,Mufti,Kids,Girls Top,Maroon,3XL,1464,2195,49.96,21
+P244,Duke,Men,Jeans,White,XL,572,813,42.08,75
+P245,Flu Jeans,Kids,Girls Top,Blue,M,633,941,48.72,22
+P246,US Polo,Men,Shorts,Grey,3XL,1791,2448,36.7,35
+P247,Mufti,Men,Shorts,White,3XL,1004,1745,73.76,29
+P248,Pepe Jeans,Men,Hoodie,Brown,S,953,1351,41.79,17
+P249,Pepe Jeans,Kids,Girls Dress,Black,S,1221,2064,69.04,13
+P250,Allen Solly,Kids,Winter Wear,Green,S,819,1215,48.4,54

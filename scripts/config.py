@@ -100,3 +100,18 @@ CITIES = [
     "Firozabad",
     "Etawah"
 ]
+PAYMENT_MODES = [
+    "UPI",
+    "Cash",
+    "Credit Card",
+    "Debit Card"
+]
+
+EMPLOYEES = [
+    "E001",
+    "E002",
+    "E003",
+    "E004"
+]
+
+DISCOUNTS = [0, 5, 10, 15, 20]
